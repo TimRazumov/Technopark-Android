@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="add_number_button_margin">8dp</dimen>
+    <dimen name="recycler_number_text_size">48sp</dimen>
+    <dimen name="fragment_number_text_size">64sp</dimen>
+</resources>

@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">tp</string>
+    <string name="add_number_button_text">Add number</string>
 </resources>
