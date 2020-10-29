@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="portrait_column_count">3</integer>
+    <integer name="landscape_column_count">4</integer>
+    <integer name="default_number_count">100</integer>
+</resources>
